@@ -1,0 +1,16 @@
+{
+  "name": "effects-as-data-semantic-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch -e"
+  },
+  "keywords": [],
+  "author": "Michael Davis",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "prettier": "^1.5.3"
+  }
+}
