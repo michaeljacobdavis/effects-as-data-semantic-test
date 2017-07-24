@@ -1,5 +1,5 @@
-const params = require('./lib/params');
+const args = require('./lib/args');
 
 module.exports = {
-  params,
+  args,
 };
